@@ -1,4 +1,5 @@
-import { MessageEmbed } from 'discord.js';
-import '../src/client.js';
+const { 
+  MessageEmbed
+ } = require('discord.js');
 
-var 404 = new MessageEmbed()
+ 
